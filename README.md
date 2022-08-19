@@ -49,3 +49,14 @@ Un fichier au format zip contenant :
 Un document PDF du rapport d’analyse SEO du site, utilisant le modèle fourni, dans lequel on identifie clairement les 10 recommandations (minimum) sélectionnées ;
 Un document TXT contenant le lien vers le repertoire GitHub du code source complet du site amélioré ;
 Un document PDF du rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
+
+Soutenance
+
+La soutenance, d'une durée de 30 minutes, se déroule en 3 étapes :
+
+Présentation des livrables (15 minutes) 
+Dans un premier temps, votre évaluateur jouera le rôle de Sophie. Vous lui présenterez vos rapports et expliquerez vos choix.
+Discussion (10 minutes) 
+Dans un second temps, vous répondrez aux questions de votre client.
+Debrief (5 minutes)
+Enfin, votre évaluateur reprendra pleinement son rôle d’évaluateur pour que vous puissiez débriefer ensemble.
